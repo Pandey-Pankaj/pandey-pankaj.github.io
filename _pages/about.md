@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""Somewhere, some incredible neuron is waiting to be known....Carl Sagan Neuron Version""
+title: "Somewhere, some incredible neuron is waiting to be known....Carl Sagan Neuron Version"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
