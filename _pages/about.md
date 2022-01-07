@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I study neural oscillations with the aim of contributing to Neurotechnology. I am fortunate to pursue my passion for brain science at IITGN. I am thankful to my supervisor [Dr. Krishna Prasad Miyapuram](https://iitgn.ac.in/faculty/cse/krishna) and mentor [Dr. Derek Lomas](https://www.tudelft.nl/io/over-io/personen/lomas-j-d) for guiding me to develop the vision. I receive Prime Minister's Fellowship with Industry Partner [PlayPower Labs](https://www.playpowerlabs.com/) for my doctoral research.
+I study neural oscillations with the aim of contributing to Neurotechnology. I am fortunate to pursue my passion for brain science at IITGN. I am thankful to my supervisor [Dr. Krishna Prasad Miyapuram](https://iitgn.ac.in/faculty/cse/krishna) and mentor [Dr. Derek Lomas](https://www.tudelft.nl/io/over-io/personen/lomas-j-d) for guiding me to develop the vision. I receive Prime Minister's Fellowship from [SERB] (http://www.serb.gov.in/home.php) and  [PlayPower Labs](https://www.playpowerlabs.com/) for my doctoral research.
 
 I mostly think with the following perspectives in my work:
 ======
