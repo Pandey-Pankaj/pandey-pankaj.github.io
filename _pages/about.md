@@ -12,9 +12,9 @@ I study neural oscillations with the aim of contributing to Neurotechnology. I a
 
 My current research lies to study the brain oscillations in naturalistic scenarios:
 ======
-1. Meditating [Time Series]
-1. Listening Music [Representation] 
-1. Watching Movie Clips [Mind] 
+1. Meditating
+1. Listening Music  
+1. Watching Movie Clips 
 
 I mostly think with the following perspectives in my work:
 ======
