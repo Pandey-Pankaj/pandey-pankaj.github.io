@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pankaj Pandey"
-  avatar           : "images/profile_photo.jpeg"
+  avatar           : "profile_photo.jpeg"
   bio              : "PhD Scholar @IITGN"
   location         : "Gandhinagar, India"
   googlescholar    : "https://scholar.google.com/citations?user=UfRsDOcAAAAJ&hl=en"
