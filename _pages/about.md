@@ -22,5 +22,5 @@ I mostly think with the following perspectives in my work:
 1. Machine and Deep Learning [Representation] 
 1. Cognitive Science [Mind] 
 1. Physics [Oscillatory System]
-1. Philosophy [Connecting Dots]
+1. Philosophy [Connecting Dots?]
 
